@@ -1,7 +1,7 @@
 ---
 title: a
 date: 2016-07-09 20:09:52
-tags:
+tags: mytag
 ---
 
 ##### [谷歌搜索](http://vpn.xiechao.org)
