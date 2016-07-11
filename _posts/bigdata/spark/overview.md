@@ -9,6 +9,4 @@ categories:
 - spark
 ---
 
-##### [谷歌搜索](http://vpn.xiechao.org)
-a
-
+###spark overview
